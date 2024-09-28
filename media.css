@@ -1,0 +1,15 @@
+header {
+    color: blue;
+}
+
+video {
+    position: relative;
+    animation-play-state: running;
+}
+
+audio {
+    animation-play-state: running;
+}
+body {
+    background-color: palevioletred;
+}
